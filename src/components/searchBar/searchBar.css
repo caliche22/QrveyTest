@@ -1,0 +1,33 @@
+.container-searchbox{
+    margin-top: 100px;
+    display: flex;
+    margin-left: 760px;
+    height: 70px;
+}
+
+.input-searchbox{
+position: absolute;
+width: 710px;
+height: 70px;
+left: 50px;
+margin-bottom: 500px;
+background: #FFFFFF;
+border: 1px solid #E0E0E0;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+border-radius: 10px;
+}
+
+.input-searchbox:focus{
+    outline: none;
+}
+
+.select-searchbox{
+    height: 70px;
+}
+
+.ico-lupa-searchbox{
+    background-color:#21ADCF ;
+    color: #21ADCF;
+    width: 45px;
+}
