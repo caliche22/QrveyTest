@@ -7,7 +7,7 @@
 
 .input-searchbox{
 position: absolute;
-width: 710px;
+width: 510px;
 height: 70px;
 left: 50px;
 margin-bottom: 500px;
@@ -24,6 +24,7 @@ border-radius: 10px;
 
 .select-searchbox{
     height: 70px;
+    width: 200px;
 }
 
 .ico-lupa-searchbox{
